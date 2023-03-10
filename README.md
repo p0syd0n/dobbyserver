@@ -1,5 +1,5 @@
 # dobbyserver
-RAT i guess
+RAT for windows, named after my pet rat, Dobby
 
 Fork it to replit and then specify the SERVER_NAME constant in the client script
 
